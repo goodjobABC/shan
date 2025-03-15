@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on SHAN TOOLS|Shan Shan Stdio</title>
+    <link>https://shan.ssstdio.shanziyi.top/page/</link>
+    <description>Recent content in Pages on SHAN TOOLS|Shan Shan Stdio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://shan.ssstdio.shanziyi.top/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fission</title>
+      <link>https://shan.ssstdio.shanziyi.top/page/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shan.ssstdio.shanziyi.top/page/documents/</guid>
+      <description>&lt;h1 id=&#34;a-aa&#34;&gt;A AA&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to Docsy</title>
+      <link>https://shan.ssstdio.shanziyi.top/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shan.ssstdio.shanziyi.top/page/about/</guid>
+      <description>&lt;link rel=&#34;preload&#34; as=&#34;image&#34; href=&#34;https://shan.ssstdio.shanziyi.top/page/about/featured-background_hu14574815498111337489.jpg&#34; media=&#34;(max-width: 1200px)&#34;&gt;&#xA;&lt;link rel=&#34;preload&#34; as=&#34;image&#34; href=&#34;https://shan.ssstdio.shanziyi.top/page/about/featured-background_hu5202557878729903125.jpg&#34; media=&#34;(min-width: 1200px)&#34;&gt;&#xA;&lt;style&gt;&#xA;#td-cover-block-0 {&#xA;  background-image: url(/page/about/featured-background_hu14574815498111337489.jpg);&#xA;}&#xA;@media only screen and (min-width: 1200px) {&#xA;  #td-cover-block-0 {&#xA;    background-image: url(/page/about/featured-background_hu5202557878729903125.jpg);&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;section id=&#34;td-cover-block-0&#34; class=&#34;row td-cover-block td-cover-block--height-auto js-td-cover td-overlay td-overlay--dark -bg-dark&#34;&gt;&#xA;  &lt;div class=&#34;col-12&#34;&gt;&#xA;    &lt;div class=&#34;container td-overlay__inner&#34;&gt;&#xA;      &lt;div class=&#34;text-center&#34;&gt;&#xA;        &lt;h1 class=&#34;display-1 mt-0 mt-md-5 pb-4&#34;&gt;About SHAN Tools&lt;/h1&gt;&#xA;        &#xA;        &lt;div class=&#34;pt-3 lead&#34;&gt;&#xA;          &#xA;              &lt;!-- raw HTML omitted --&gt;&#xA;&#xA;          &#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;/section&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;SHAN TOOLS 是由&lt;a href=&#34;https://goodjobabc.github.io&#34;&gt;单单工作室&lt;/a&gt;开发并维护的一款 快速部署PY FLASK框架网站（也可以充当多线程下载器）的小工具&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
